@@ -1,7 +1,7 @@
 # Virtual Kinect
 
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
-[![GitHub repo size](https://img.shields.io/github/repo-size/voxarlabs/Virtual-Kinect)]
+![GitHub repo size](https://img.shields.io/github/repo-size/voxarlabs/Virtual-Kinect)
 
 ## Introduction
 
