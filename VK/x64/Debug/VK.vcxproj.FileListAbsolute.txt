@@ -1,0 +1,2 @@
+C:\Users\55819\source\repos\VK\x64\Debug\VK.dll
+C:\Users\55819\source\repos\VK\x64\Debug\VK.pdb
